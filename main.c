@@ -8,7 +8,7 @@ struct Test {
 void use_struct_pointer(struct Test *test){
     test.a = 5;
     test.b = 6;
-    printf("%d", test.a + test.b);
+    printf("%d\n", test.a + test.b);
 }
 
 
