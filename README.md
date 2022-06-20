@@ -1,4 +1,4 @@
-# tried of doing same as : https://github.com/tsoding/tic-tac-toe-auto-deref
+# Followed: https://github.com/tsoding/tic-tac-toe-auto-deref
 
 # Tic Tac Toe in C but with Auto Dereferencing
 
